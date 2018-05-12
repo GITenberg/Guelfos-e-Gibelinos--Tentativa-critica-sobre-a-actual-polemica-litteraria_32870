@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36085'
     url: http://www.gutenberg.org/2009/agents/36085
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32870#Guelfos-e-Gibelinos--Tentativa-critica-sobre-a-actual-polemica-litteraria
 gutenberg_issued: '2010-06-18'
 gutenberg_type: Text
 identifiers:
