@@ -1,0 +1,27 @@
+_repo: Guelfos-e-Gibelinos--Tentativa-critica-sobre-a-actual-polemica-litteraria_32870
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vidal, Eduardo Augusto
+    alias: Vidal, E. A.
+    birthdate: 1841
+    deathdate: 1907
+    gutenberg_agent_id: '36085'
+    url: http://www.gutenberg.org/2009/agents/36085
+description: ''
+gutenberg_issued: '2010-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32870'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Portuguese literature -- History and criticism'
+title: 'Guelfos e Gibelinos: Tentativa critica sobre a actual polemica litteraria'
+url: http://www.gutenberg.org/ebooks/32870
